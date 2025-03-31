@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="bot.png" alt="Avatar" width="80">
+      <img src="bot.png" alt="Avatar" width="120"> <!-- Aumenté de 80 a 120 -->
       <br>
       <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
     </td>
@@ -14,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
