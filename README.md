@@ -1,29 +1,28 @@
 <!-- 🍁 FaceMdfk para servirte -->
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <!-- Mensaje de bienvenida alineado a la izquierda -->
-    <td align="left" style="width: 70%; vertical-align: middle;">
-      <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
-      Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
-      Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
-    </td>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  
+  <!-- Mensaje de bienvenida alineado a la izquierda -->
+  <div style="text-align: left; max-width: 70%;">
+    <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
+    Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
+    Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
+  </div>
 
-    <!-- Imagen y contador de visitas alineados a la derecha -->
-    <td align="right" style="width: 30%; vertical-align: middle;">
-      <div style="display: flex; align-items: center; justify-content: flex-end;">
-        <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
-      </div>
-    </td>
-  </tr>
-</table>
+  <!-- Imagen y contador de visitas alineados a la derecha -->
+  <div style="display: flex; align-items: center;">
+    <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+  </div>
+
+</div>
 
 <br>
 
 <div align="center">
   <img src="some-boothill-gifs-v0-s34gs2v5zoqc1.gif" alt="Banner">
 </div>
+
 
 <hr>
 
