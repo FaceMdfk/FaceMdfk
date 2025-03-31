@@ -1,22 +1,15 @@
-<!-- Contenedor principal -->
-<div style="display: flex; align-items: center; width: 100%;">
+<div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; width: fit-content;">
 
-  <!-- Contenedor de las imágenes -->
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 15px;">
-    <img src="bot.png" alt="Avatar" width="80">
-    <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
-  </div>
+  <!-- Imagen alineada a la izquierda -->
+  <img src="bot.png" alt="Avatar" width="120" style="margin-right: 15px; border-radius: 10px;">
 
-  <!-- Contenedor del texto al lado de las imágenes -->
-  <div>
-    <p>
-      ¡Prepárate para la aventura en este salvaje repositorio de código!<br>
-      Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
-      Aquí no solo encontrarás líneas de código, sino una experiencia épica.
-    </p>
-  </div>
+  <!-- Texto alineado a la derecha -->
+  <p style="text-align: justify; max-width: 300px; font-size: 14px;">
+    ¡Prepárate para la aventura en este salvaje repositorio de código! Si te gusta la acción, el estilo y el buen código, este es tu lugar. Aquí no solo encontrarás líneas de código, sino una experiencia épica.
+  </p>
 
 </div>
+
 
 
 <br>
