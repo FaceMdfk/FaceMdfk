@@ -1,4 +1,4 @@
-# 🍁 FaceMdfk para servirte  
+<!-- 🍁 FaceMdfk para servirte -->
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -11,8 +11,10 @@
 
     <!-- Imagen y contador de visitas alineados a la derecha -->
     <td align="right" style="width: 30%; vertical-align: middle;">
-      <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
-      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+      <div style="display: flex; align-items: center; justify-content: flex-end;">
+        <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
+        <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+      </div>
     </td>
   </tr>
 </table>
@@ -23,14 +25,14 @@
   <img src="some-boothill-gifs-v0-s34gs2v5zoqc1.gif" alt="Banner">
 </div>
 
----
+<hr>
 
-## 📄 Licencia  
-Este proyecto está bajo la licencia **[Nombre de la licencia]**.  
+<h2>📄 Licencia</h2>
+<p>Este proyecto está bajo la licencia <strong>[Nombre de la licencia]</strong>.</p>
 
----
+<hr>
 
-## 🚀 Aptitudes y estadísticas de GitHub  
+<h2>🚀 Aptitudes y estadísticas de GitHub</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaceMdfk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -39,13 +41,15 @@ Este proyecto está bajo la licencia **[Nombre de la licencia]**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaceMdfk&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
----
+<hr>
 
-## 📬 Contacto  
-📧 Email: [tu-email@example.com](mailto:tu-email@example.com)  
-🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)  
-💼 LinkedIn: [tu-perfil](https://linkedin.com/in/tuusuario)  
+<h2>📬 Contacto</h2>
+<ul>
+  <li>📧 Email: <a href="mailto:tu-email@example.com">tu-email@example.com</a></li>
+  <li>🐦 Twitter: <a href="https://twitter.com/tuusuario">@tuusuario</a></li>
+  <li>💼 LinkedIn: <a href="https://linkedin.com/in/tuusuario">tu-perfil</a></li>
+</ul>
 
----
+<hr>
 
-🔥 ¡Sígueme para más contenido épico! 🚀  
+<p align="center">🔥 ¡Sígueme para más contenido épico! 🚀</p>
