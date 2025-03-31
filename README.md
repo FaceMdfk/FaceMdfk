@@ -14,20 +14,19 @@ Este proyecto está bajo la licencia **[Nombre de la licencia]**.
 
 ## 📊 Visitas al perfil  
 ¡Este perfil es visitado por muchas personas! 🎉  
-### Número de visitas al perfil: **![Visitor Count](https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square&color=blue)**  
+### Número de visitas al perfil:  
+![Visitor Count](https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=blue)  
 
 ---
 
-## 💡 Habilidades  
-¡Aquí te presento mis habilidades con un toque de estilo! 😎  
+## 🚀 Aptitudes y estadísticas de GitHub  
 
-| Habilidad | Nivel |
-|-----------|------|
-| ![PHP](https://img.shields.io/badge/PHP-95%25-brightgreen) | 🟢🟢🟢🟢🟢 |
-| ![HTML](https://img.shields.io/badge/HTML-100%25-blue) | 🔵🔵🔵🔵🔵 |
-| ![CSS](https://img.shields.io/badge/CSS-80%25-red) | 🔴🔴🔴🔴⚫ |
-| ![C#](https://img.shields.io/badge/CSharp-85%25-brown) | 🟤🟤🟤🟤⚫ |
-| ![Java](https://img.shields.io/badge/Java-70%25-yellow) | 🟡🟡🟡⚫⚫ |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaceMdfk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaceMdfk&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaceMdfk&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
