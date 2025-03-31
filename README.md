@@ -1,20 +1,16 @@
-🍁 FaceMdfk para servirte -->
-
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   
-  <!-- Mensaje de bienvenida alineado a la izquierda -->
-  <div style="text-align: left; max-width: 70%;">
+  <!-- Texto de bienvenida -->
+  <div style="flex: 1;">
     <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
     Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
     Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
   </div>
 
   <!-- Imagen y contador de visitas alineados a la derecha -->
-  <div style="display: flex; align-items: center; text-align: right;">
-    <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
-    <span style="font-size: 20px; font-weight: bold;">
-      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
-    </span>
+  <div style="text-align: right;">
+    <img src="bot.png" alt="Avatar" width="80" style="vertical-align: middle; margin-right: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas" style="vertical-align: middle;">
   </div>
 
 </div>
@@ -24,6 +20,7 @@
 <div align="center">
   <img src="some-boothill-gifs-v0-s34gs2v5zoqc1.gif" alt="Banner">
 </div>
+
 
 
 <hr>
