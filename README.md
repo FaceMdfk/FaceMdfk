@@ -1,10 +1,12 @@
 <!-- Contenedor principal -->
 <div style="width: 100%; overflow: hidden;">
 
-  <!-- Imagen y contador alineados a la derecha -->
-  <div style="float: right; display: flex; align-items: center;">
-    <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+  <!-- Imagen y contador alineados y juntos a la derecha -->
+  <div style="float: right; display: flex; align-items: center; gap: 5px;">
+    <img src="bot.png" alt="Avatar" width="80">
+    <span style="background: #000; color: white; padding: 5px 10px; border-radius: 5px;">
+      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+    </span>
   </div>
 
   <!-- Mensaje de bienvenida -->
@@ -13,6 +15,7 @@
   Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
 
 </div>
+
 
 <br>
 
