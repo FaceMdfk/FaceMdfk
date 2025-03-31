@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="bot.png" alt="Avatar" width="80">
       <br>
       <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
     </td>
-    <td>
+    <td align="center" valign="middle">
       <p>
         ¡Prepárate para la aventura en este salvaje repositorio de código!  
         Si te gusta la acción, el estilo y el buen código, este es tu lugar.  
