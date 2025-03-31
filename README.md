@@ -7,7 +7,7 @@
   </div>
 
   <!-- Texto que se adapta a la imagen -->
-  <p style="text-align: justify; font-size: 14px;">
+  <p style="text-align: justify; "float: font-size: 14px;">
     ¡Prepárate para la aventura en este salvaje repositorio de código!  
     Si te gusta la acción, el estilo y el buen código, este es tu lugar.  
     Aquí no solo encontrarás líneas de código, sino una experiencia épica.
