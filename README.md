@@ -9,7 +9,7 @@
     <td align="right">
       <strong>Visitas:</strong>  
       <br>
-      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=blue" alt="Contador de visitas">
+      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=blue&label=" alt="Contador de visitas">
     </td>
   </tr>
 </table>
