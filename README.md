@@ -4,7 +4,7 @@
   
   <!-- Imagen a la izquierda con el contador al lado -->
   <div style="display: flex; align-items: center;">
-    <img src="URL_DE_TU_IMAGEN" alt="Avatar" width="80">
+    <img src="bot.png" alt="Avatar" width="80">
     <span style="font-size: 24px; font-weight: bold; margin-left: 10px;">
       <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
     </span>
