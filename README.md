@@ -1,19 +1,20 @@
-<div style="width: fit-content; border: 1px solid #ccc; padding: 10px; overflow: hidden;">
+<table>
+  <tr>
+    <td>
+      <img src="bot.png" alt="Avatar" width="80">
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+    </td>
+    <td>
+      <p>
+        ¡Prepárate para la aventura en este salvaje repositorio de código!  
+        Si te gusta la acción, el estilo y el buen código, este es tu lugar.  
+        Aquí no solo encontrarás líneas de código, sino una experiencia épica.
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Imagen y contador flotando a la izquierda -->
-  <div style="float: left; margin-right: 15px; text-align: center;">
-    <img src="bot.png" alt="Avatar" width="120" style="border-radius: 10px; display: block;">
-    <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas" style="margin-top: 5px;">
-  </div>
-
-  <!-- Texto que se adapta a la imagen -->
-  <p style="text-align: justify; font-size: 14px;">
-    ¡Prepárate para la aventura en este salvaje repositorio de código!  
-    Si te gusta la acción, el estilo y el buen código, este es tu lugar.  
-    Aquí no solo encontrarás líneas de código, sino una experiencia épica.
-  </p>
-
-</div>
 
 
 
