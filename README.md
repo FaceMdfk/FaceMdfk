@@ -1,3 +1,8 @@
+<!-- Agregar título con el nombre -->
+<div align="center">
+  <h1 style="font-family: 'Minecraftia', sans-serif;">FaceMdfk</h1>
+</div>
+
 <table>
   <tr>
     <td align="center">
@@ -6,7 +11,7 @@
       <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
     </td>
     <td align="center" valign="middle">
-      <p>
+      <p style="font-family: 'Minecraftia', sans-serif;">
         ¡Prepárate para la aventura en este salvaje repositorio de código!  
         Si te gusta la acción, el estilo y el buen código, este es tu lugar.  
         Aquí no solo encontrarás líneas de código, sino una experiencia épica.
@@ -15,29 +20,20 @@
   </tr>
 </table>
 
-
-
-
-
-
-
 <br>
 
 <div align="center">
   <img src="some-boothill-gifs-v0-s34gs2v5zoqc1.gif" alt="Banner">
 </div>
 
+<hr>
 
-
+<h2 style="font-family: 'Minecraftia', sans-serif;">📄 Licencia</h2>
+<p style="font-family: 'Minecraftia', sans-serif;">Este proyecto está bajo la licencia <strong>[Nombre de la licencia]</strong>.</p>
 
 <hr>
 
-<h2>📄 Licencia</h2>
-<p>Este proyecto está bajo la licencia <strong>[Nombre de la licencia]</strong>.</p>
-
-<hr>
-
-<h2>🚀 Aptitudes y estadísticas de GitHub</h2>
+<h2 style="font-family: 'Minecraftia', sans-serif;">🚀 Aptitudes y estadísticas de GitHub</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaceMdfk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -48,8 +44,8 @@
 
 <hr>
 
-<h2>📬 Contacto</h2>
-<ul>
+<h2 style="font-family: 'Minecraftia', sans-serif;">📬 Contacto</h2>
+<ul style="font-family: 'Minecraftia', sans-serif;">
   <li>📧 Email: <a href="mailto:tu-email@example.com">tu-email@example.com</a></li>
   <li>🐦 Twitter: <a href="https://twitter.com/tuusuario">@tuusuario</a></li>
   <li>💼 LinkedIn: <a href="https://linkedin.com/in/tuusuario">tu-perfil</a></li>
@@ -57,4 +53,4 @@
 
 <hr>
 
-<p align="center">🔥 ¡Sígueme para más contenido épico! 🚀</p>
+<p align="center" style="font-family: 'Minecraftia', sans-serif;">🔥 ¡Sígueme para más contenido épico! 🚀</p>
