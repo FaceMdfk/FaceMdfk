@@ -1,26 +1,22 @@
 # 🍁 FaceMdfk para servirte  
 
+<table width="100%">
+  <tr>
+    <td>
+      <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
+      Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
+      Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=blue&label=" alt="Contador de visitas">
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="width: 50px; height: 50px; border-radius: 50%; background: #3498db; color: white; font-size: 18px; font-weight: bold; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-            <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=blue&label=" alt="Contador de visitas">
-          </div>
-          <div>
-            <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
-            Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
-            Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  ![Banner](some-boothill-gifs-v0-s34gs2v5zoqc1.gif)
+  <img src="some-boothill-gifs-v0-s34gs2v5zoqc1.gif" alt="Banner">
 </div>
 
 ---
