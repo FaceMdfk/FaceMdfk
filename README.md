@@ -1,17 +1,19 @@
 # 🍁 FaceMdfk para servirte  
 
-<table width="100%">
-  <tr>
-    <td>
-      <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
-      Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
-      Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=blue&label=" alt="Contador de visitas">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" border="0">
+    <tr>
+      <td align="left">
+        <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
+        Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
+        Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
+      </td>
+      <td align="right">
+        <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=blue&label=" alt="Contador de visitas">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
