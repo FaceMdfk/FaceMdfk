@@ -1,16 +1,16 @@
 # 🍁 FaceMdfk para servirte  
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   
   <!-- Mensaje de bienvenida alineado a la izquierda -->
-  <div align="left">
+  <div style="flex: 1; text-align: left; padding-right: 20px;">
     <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
     Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
     Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
   </div>
 
   <!-- Imagen y contador de visitas alineados a la derecha -->
-  <div align="right" style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
     <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
     <span style="font-size: 24px; font-weight: bold;">
       <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
