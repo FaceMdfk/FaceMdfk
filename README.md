@@ -1,17 +1,19 @@
-<!-- Contenedor principal -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<!-- Contenedor principal con flexbox -->
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
-  <!-- Texto alineado a la izquierda -->
-  <div style="text-align: left; max-width: 70%;">
+  <!-- Mensaje de bienvenida alineado a la izquierda -->
+  <div style="flex: 1; text-align: left; padding-right: 20px;">
     <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
     Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
     Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
   </div>
 
-  <!-- Imagen y contador alineados a la derecha -->
-  <div style="text-align: right; display: flex; align-items: center;">
+  <!-- Imagen y contador de visitas alineados a la derecha -->
+  <div style="display: flex; align-items: center;">
     <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+    <span style="font-size: 24px; font-weight: bold;">
+      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+    </span>
   </div>
 
 </div>
