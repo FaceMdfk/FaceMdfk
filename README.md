@@ -10,9 +10,11 @@
   </div>
 
   <!-- Imagen y contador de visitas alineados a la derecha -->
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: center; text-align: right;">
     <img src="bot.png" alt="Avatar" width="80" style="margin-right: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+    <span style="font-size: 20px; font-weight: bold;">
+      <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
+    </span>
   </div>
 
 </div>
