@@ -1,20 +1,20 @@
 # 🍁 FaceMdfk para servirte  
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   
-  <!-- Imagen a la izquierda con el contador al lado -->
+  <!-- Mensaje de bienvenida alineado a la izquierda -->
+  <div style="text-align: left;">
+    <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
+    Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
+    Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
+  </div>
+
+  <!-- Imagen y contador de visitas alineados a la derecha -->
   <div style="display: flex; align-items: center;">
     <img src="bot.png" alt="Avatar" width="80">
     <span style="font-size: 24px; font-weight: bold; margin-left: 10px;">
       <img src="https://komarev.com/ghpvc/?username=FaceMdfk&style=flat-square&color=000000&label=" alt="Contador de visitas">
     </span>
-  </div>
-  
-  <!-- Mensaje de bienvenida -->
-  <div align="right">
-    <p>¡Prepárate para la aventura en este salvaje repositorio de código!<br>
-    Si te gusta la acción, el estilo y el buen código, este es tu lugar.<br>
-    Aquí no solo encontrarás líneas de código, sino una experiencia épica.</p>
   </div>
 
 </div>
